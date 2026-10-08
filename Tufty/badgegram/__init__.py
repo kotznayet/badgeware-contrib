@@ -1,7 +1,7 @@
 import wifi
 import fetch
 
-server = 'http://SERVER_IP:8080/api/chats/CHAT_ID/messages'
+server = "http://SERVER_IP:8080/api/chats/CHAT_ID/messages"
 
 badge.mode(HIRES | VSYNC)
 screen.font = font.sins
